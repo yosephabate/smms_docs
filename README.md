@@ -1,6 +1,6 @@
 # smms_docs
   
-##Tutorial
+<h1>Tutorial</h1>
 
 <pre>void main() {
   var deck = Deck();
